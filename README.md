@@ -8,3 +8,6 @@
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/CreativeAnushka/CreativeAnushka/pull/1) in [CreativeAnushka/CreativeAnushka](https://github.com/CreativeAnushka/CreativeAnushka)
+2. 💪 Opened PR [#1](https://github.com/CreativeAnushka/CreativeAnushka/pull/1) in [CreativeAnushka/CreativeAnushka](https://github.com/CreativeAnushka/CreativeAnushka)
+<!--END_SECTION:activity-->
